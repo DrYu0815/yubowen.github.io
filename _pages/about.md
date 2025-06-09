@@ -7,43 +7,98 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+# Bowen Yu
 
-A data-driven personal website
-======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+I'm a first-year Ph.D. student at the [School of Data Science](https://www.ds.cityu.edu.hk/) at [City University of Hong Kong](https://www.cityu.edu.hk/zh-cn). I am very fortunate to be advised by [Prof. Xiangyu Zhao](https://zhaoxyai.github.io/). I obtained my Master's degree from CityU and my Bachelor's degree from [Nantong University](https://www.ntu.edu.cn/).
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over - just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+My research interests lie at the intersection of machine learning, signal processing, and robotics, with a focus on developing innovative solutions for real-world challenges. I have a strong foundation in both hardware and software, with hands-on experience in circuit design, control systems, and data analysis.
 
-Getting started
-======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+[Email](mailto:bowyu2-c@my.cityu.edu.hk) / [WeChat](../images/wechat.jpg) (WeChat ID: ybw2636839047) / [Github](https://github.com/your-github-username)
 
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+---
 
-Create content & metadata
-------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
+### Education
 
-**Markdown generator**
+* **City University of Hong Kong** (Sept 2024 - June 2025)
+    * [cite_start]MSc in Venture Creation 
+    * [cite_start]Role: CAI Class Representative, Data Science Department RA at AML Lab (Prof. Zhao) 
 
-The repository includes [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the Academic Pages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
+* **Nantong University** (Sept 2020 - June 2024)
+    * [cite_start]B.Eng in Electrical Engineering and Automation 
+    * [cite_start]Coursework: Artificial Intelligence, Linear Algebra, Microcontroller Technology, Power Electronics Technology, Principles of Automatic Control, PLC Technology 
 
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
+---
 
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
+### Research Experience
 
-For more info
-------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+* [cite_start]**ConFact: Multi-dimensional Signal Processing with Deep Dimension-specific Convolutional Tensor Factorization** (Submitted to IJCAI 2025, co-first author) 
+    * [cite_start]Developed a unified solution for multi-modal data with missing entries and noise. 
+    * [cite_start]Achieved state-of-the-art performance in image, video, seismic, and audio data reconstruction and denoising. 
+
+* [cite_start]**Graduation Project: Wind-Storage Integrated Voltage Signal Acquisition and Filtering Design** 
+    * [cite_start]Designed and implemented an analog voltage signal acquisition and conditioning circuit. 
+    * [cite_start]Utilized an improved wavelet threshold denoising algorithm in MATLAB to effectively remove noise from signals. 
+    * [cite_start]Successfully reduced the Total Harmonic Distortion (THD) from 9.07% to 5.52% through harmonic filtering. 
+
+---
+
+### Publications
+
+* [cite_start]**Design of an Automatic Afforestation and Grass Planting Vehicle for Desert Conditions** 
+    * [cite_start]*Science and Technology and Innovation*, CN14-1369/N (Accepted for publication, Sep 2024) 
+    * [cite_start]Authors: Bowen Yu, Haiyang Gong, Haiyang Gong, Sen Wang 
+
+---
+
+### Patents
+
+* **A High-Economy Laser Shock Strengthening Method for Anode Targets**
+    * [cite_start]Application Number: 2023103522746 
+
+* **A Robot for Assisting Feeding**
+    * [cite_start]Patent Number: 202320541893.5 
+
+---
+
+### Projects
+
+* [cite_start]**"DotGreen" - Multi-functional Automated Grass Grid Laying Vehicle** 
+    * [cite_start]Solar-powered mechanical system for automated grass planting. 
+    * [cite_start]Utilized Arduino for intelligent control, achieving 95% coverage and a 10% efficiency improvement. 
+    * [cite_start]Awarded 2nd Prize in the College Student Mechanical Design Innovation Competition, Jiangsu Province. 
+
+* [cite_start]**"Smart Eyes" - Intelligent Assisted Feeding Robot** 
+    * [cite_start]Developed a height-adjustable smart feeding system for elderly care, leveraging Raspberry Pi and OpenMV for vision and voice control. 
+    * [cite_start]Secured a national patent for the design. 
+
+---
+
+### Internships
+
+* **Semiconductor Engineer Intern, Zhuhai Lingyange Chip Technology Co., Ltd.** (July 2023 - Aug 2023)
+    * [cite_start]Gained foundational knowledge of the semiconductor industry. 
+    * [cite_start]Applied PDCA project management methods. 
+    * [cite_start]Tested signal processing using visual signal software and explored GPGPU acceleration with OpenCL, achieving a 20% reduction in energy consumption. 
+
+* [cite_start]**Firmware Engineer Intern, Seyond (Suzhou), China** (July 2022 - Sep 2022) 
+    * [cite_start]Managed LiDAR data processing on a Linux platform. 
+    * [cite_start]Developed Python scripts that improved point cloud processing efficiency by 200%. 
+    * [cite_start]Led log analysis efforts to resolve LiDAR errors. 
+
+---
+
+### Skills
+
+* [cite_start]**Programming:** Python, MATLAB, C, Linux 
+* [cite_start]**Software:** CAD, Solidworks, Microsoft Office, Visio 
+* **Technical Skills:** Signal Processing, Control Systems, Machine Learning, Deep Learning, Recommender Systems
+* [cite_start]**Languages:** English (CET-6: 531) 
+
+---
+
+### Awards and Honors
+
+* [cite_start]**2nd Prize**, College Student Mechanical Design Innovation Competition, Jiangsu Province 
+* [cite_start]**2nd Prize**, 14th Higher Education Cup National College Students Advanced Drawing Technology and Product Information Modeling Competition 
+* [cite_start]**3rd Prize**, 12th Jiangsu Province College Students Robot Competition 
+* [cite_start]**Nantong University 2024 Excellent Graduation Thesis (Design)**
