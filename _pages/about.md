@@ -20,85 +20,85 @@ My research interests lie at the intersection of machine learning, signal proces
 ### Education
 
 * **City University of Hong Kong** (Sept 2024 - June 2025)
-    * [cite_start]MSc in Venture Creation 
-    * [cite_start]Role: CAI Class Representative, Data Science Department RA at AML Lab (Prof. Zhao) 
+    * MSc in Venture Creation
+    * Role: CAI Class Representative, Data Science Department RA at AML Lab (Prof. Zhao)
 
 * **Nantong University** (Sept 2020 - June 2024)
-    * [cite_start]B.Eng in Electrical Engineering and Automation 
-    * [cite_start]Coursework: Artificial Intelligence, Linear Algebra, Microcontroller Technology, Power Electronics Technology, Principles of Automatic Control, PLC Technology 
+    * B.Eng in Electrical Engineering and Automation
+    * Coursework: Artificial Intelligence, Linear Algebra, Microcontroller Technology, Power Electronics Technology, Principles of Automatic Control, PLC Technology
 
 ---
 
 ### Research Experience
 
-* [cite_start]**ConFact: Multi-dimensional Signal Processing with Deep Dimension-specific Convolutional Tensor Factorization** (Submitted to IJCAI 2025, co-first author) 
-    * [cite_start]Developed a unified solution for multi-modal data with missing entries and noise. 
-    * [cite_start]Achieved state-of-the-art performance in image, video, seismic, and audio data reconstruction and denoising. 
+* **ConFact: Multi-dimensional Signal Processing with Deep Dimension-specific Convolutional Tensor Factorization** (Submitted to IJCAI 2025, co-first author)
+    * Developed a unified solution for multi-modal data with missing entries and noise.
+    * Achieved state-of-the-art performance in image, video, seismic, and audio data reconstruction and denoising.
 
-* [cite_start]**Graduation Project: Wind-Storage Integrated Voltage Signal Acquisition and Filtering Design** 
-    * [cite_start]Designed and implemented an analog voltage signal acquisition and conditioning circuit. 
-    * [cite_start]Utilized an improved wavelet threshold denoising algorithm in MATLAB to effectively remove noise from signals. 
-    * [cite_start]Successfully reduced the Total Harmonic Distortion (THD) from 9.07% to 5.52% through harmonic filtering. 
+* **Graduation Project: Wind-Storage Integrated Voltage Signal Acquisition and Filtering Design**
+    * Designed and implemented an analog voltage signal acquisition and conditioning circuit.
+    * Utilized an improved wavelet threshold denoising algorithm in MATLAB to effectively remove noise from signals.
+    * Successfully reduced the Total Harmonic Distortion (THD) from 9.07% to 5.52% through harmonic filtering.
 
 ---
 
 ### Publications
 
-* [cite_start]**Design of an Automatic Afforestation and Grass Planting Vehicle for Desert Conditions** 
-    * [cite_start]*Science and Technology and Innovation*, CN14-1369/N (Accepted for publication, Sep 2024) 
-    * [cite_start]Authors: Bowen Yu, Haiyang Gong, Haiyang Gong, Sen Wang 
+* **Design of an Automatic Afforestation and Grass Planting Vehicle for Desert Conditions**
+    * *Science and Technology and Innovation*, CN14-1369/N (Accepted for publication, Sep 2024)
+    * Authors: Bowen Yu, Haiyang Gong, Haiyang Gong, Sen Wang
 
 ---
 
 ### Patents
 
 * **A High-Economy Laser Shock Strengthening Method for Anode Targets**
-    * [cite_start]Application Number: 2023103522746 
+    * Application Number: 2023103522746
 
 * **A Robot for Assisting Feeding**
-    * [cite_start]Patent Number: 202320541893.5 
+    * Patent Number: 202320541893.5
 
 ---
 
 ### Projects
 
-* [cite_start]**"DotGreen" - Multi-functional Automated Grass Grid Laying Vehicle** 
-    * [cite_start]Solar-powered mechanical system for automated grass planting. 
-    * [cite_start]Utilized Arduino for intelligent control, achieving 95% coverage and a 10% efficiency improvement. 
-    * [cite_start]Awarded 2nd Prize in the College Student Mechanical Design Innovation Competition, Jiangsu Province. 
+* **"DotGreen" - Multi-functional Automated Grass Grid Laying Vehicle**
+    * Solar-powered mechanical system for automated grass planting.
+    * Utilized Arduino for intelligent control, achieving 95% coverage and a 10% efficiency improvement.
+    * Awarded 2nd Prize in the College Student Mechanical Design Innovation Competition, Jiangsu Province.
 
-* [cite_start]**"Smart Eyes" - Intelligent Assisted Feeding Robot** 
-    * [cite_start]Developed a height-adjustable smart feeding system for elderly care, leveraging Raspberry Pi and OpenMV for vision and voice control. 
-    * [cite_start]Secured a national patent for the design. 
+* **"Smart Eyes" - Intelligent Assisted Feeding Robot**
+    * Developed a height-adjustable smart feeding system for elderly care, leveraging Raspberry Pi and OpenMV for vision and voice control.
+    * Secured a national patent for the design.
 
 ---
 
 ### Internships
 
 * **Semiconductor Engineer Intern, Zhuhai Lingyange Chip Technology Co., Ltd.** (July 2023 - Aug 2023)
-    * [cite_start]Gained foundational knowledge of the semiconductor industry. 
-    * [cite_start]Applied PDCA project management methods. 
-    * [cite_start]Tested signal processing using visual signal software and explored GPGPU acceleration with OpenCL, achieving a 20% reduction in energy consumption. 
+    * Gained foundational knowledge of the semiconductor industry.
+    * Applied PDCA project management methods.
+    * Tested signal processing using visual signal software and explored GPGPU acceleration with OpenCL, achieving a 20% reduction in energy consumption.
 
-* [cite_start]**Firmware Engineer Intern, Seyond (Suzhou), China** (July 2022 - Sep 2022) 
-    * [cite_start]Managed LiDAR data processing on a Linux platform. 
-    * [cite_start]Developed Python scripts that improved point cloud processing efficiency by 200%. 
-    * [cite_start]Led log analysis efforts to resolve LiDAR errors. 
+* **Firmware Engineer Intern, Seyond (Suzhou), China** (July 2022 - Sep 2022)
+    * Managed LiDAR data processing on a Linux platform.
+    * Developed Python scripts that improved point cloud processing efficiency by 200%.
+    * Led log analysis efforts to resolve LiDAR errors.
 
 ---
 
 ### Skills
 
-* [cite_start]**Programming:** Python, MATLAB, C, Linux 
-* [cite_start]**Software:** CAD, Solidworks, Microsoft Office, Visio 
+* **Programming:** Python, MATLAB, C, Linux
+* **Software:** CAD, Solidworks, Microsoft Office, Visio
 * **Technical Skills:** Signal Processing, Control Systems, Machine Learning, Deep Learning, Recommender Systems
-* [cite_start]**Languages:** English (CET-6: 531) 
+* **Languages:** English (CET-6: 531)
 
 ---
 
 ### Awards and Honors
 
-* [cite_start]**2nd Prize**, College Student Mechanical Design Innovation Competition, Jiangsu Province 
-* [cite_start]**2nd Prize**, 14th Higher Education Cup National College Students Advanced Drawing Technology and Product Information Modeling Competition 
-* [cite_start]**3rd Prize**, 12th Jiangsu Province College Students Robot Competition 
-* [cite_start]**Nantong University 2024 Excellent Graduation Thesis (Design)**
+* **2nd Prize**, College Student Mechanical Design Innovation Competition, Jiangsu Province
+* **2nd Prize**, 14th Higher Education Cup National College Students Advanced Drawing Technology and Product Information Modeling Competition
+* **3rd Prize**, 12th Jiangsu Province College Students Robot Competition
+* **Nantong University 2024 Excellent Graduation Thesis (Design)**
